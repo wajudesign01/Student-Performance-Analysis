@@ -20,7 +20,7 @@ By examining these factors through comprehensive data-driven approach, I aim to 
 - Transforming data
 
 # Exploratory Data Analysis
-EDA involved exploring Airline data to answer some key questions such as;
+EDA involved exploring student performance data to answer some key questions such as;
 - What weekly study time can help improve student performance?
 - How deos student performance varies based on parental support
 - How extracurricular activities affects student grade
